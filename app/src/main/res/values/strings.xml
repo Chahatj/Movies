@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="error_message">Something wrong, Please try again</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="Movie_Detail">Movie Detail</string>
+    <string name="trailers">Trailers:</string>
+
+    <string name="pref_option_sort_lable_popular">Popular</string>
+    <string name="pref_option_sort_lable_toprated">Top Rated</string>
+    <string name="pref_option_sort_lable_favourite">Favourite</string>
+
+    <string name="pref_option_sort_value_popular">popular</string>
+    <string name="pref_option_sort_value_toprated">top_rated</string>
+    <string name="pref_option_sort_value_favourite">favourite</string>
+
+    <string name="pref_sort_key">sortby</string>
+    <string name="pref_sort_title">Sort by</string>
+    <string name="setting">Settings</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_review">No Review</string>
+    <string name="no_trailer">No Trailer</string>
+    <string name="no_collection">No collection</string>
+    <string name="by">by:</string>
+    <string name="movieTrailer">MovieTrailer</string>
+    <string name="select_favourite">Select Favourite</string>
+
+</resources>

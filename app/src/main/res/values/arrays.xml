@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_option_soryby_lable">
+        <item>@string/pref_option_sort_lable_popular</item>
+        <item>@string/pref_option_sort_lable_toprated</item>
+        <item>@string/pref_option_sort_lable_favourite</item>
+    </array>
+
+    <array name="pref_option_sortby_value">
+        <item>@string/pref_option_sort_value_popular</item>
+        <item>@string/pref_option_sort_value_toprated</item>
+        <item>@string/pref_option_sort_value_favourite</item>
+    </array>
+</resources>
